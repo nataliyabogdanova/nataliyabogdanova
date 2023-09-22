@@ -1,8 +1,17 @@
 ### Hiii there 👋🥰
 
-## I am Nataliya Bogdanova, 19 years old, from Veliko Tarnovo, Bulgaria.
+## let nataliya: Web Developer = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "C++"],
+    technologies: {
+        
+        databases: ["MSSQL"] 
+      spreadsheets: ["Excel"] 
 
-## My education
-🎓Graduated Profiled Nature and Mathematics High School "Dobri Chintulov" in Sliven, Bulgaria.
+    },
+    education: ["Graduated Profiled Nature and Mathematics High School "Dobri Chintulov" "],
+  currently studying: ["Java Script at Software University", "second-year student, majoring Mobile and Web technologies"],
+    hobbies: ["Gym", "Hiking", "Photography", "Photoshop", "Gaming"],
+    goal: "Front-end Web Dev"
+};
 
-💻Currently studying Java Script at Software University and I am second-year student at University of Economics in Varna, majoring Mobile and Web technologies.
