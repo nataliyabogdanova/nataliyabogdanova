@@ -1,6 +1,6 @@
 ### Hiii there 👋🥰
 
-## let nataliya: Web Developer = {
+   let nataliya: Web Developer = {
     pronouns: "She" | "Her",
     code: ["Javascript", "C++"],
     technologies: {
