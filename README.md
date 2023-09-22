@@ -6,10 +6,10 @@
         databases: ["MSSQL"] 
        spreadsheets: ["Excel"]
     },
-    education: ["Graduated Profiled Nature and Mathematics High School "Dobri Chintulov" "],
-    currently studying: ["Java Script at Software University", "second-year student, majoring Mobile and Web technologies"],
+    education: ["Graduated High School of Mathematics and Natural Sciences"],
+    currently studying: ["Java Script", "Mobile and Web technologies"],
     hobbies: ["Gym", "Hiking", "Photography", "Photoshop", "Gaming"],
-    goal: "Front-end Web Dev"  
+    goal: ["Front-end Web Dev"]  
     };
 
 
