@@ -1,7 +1,7 @@
 ### Hiii there 👋🥰
     let nataliya: Web Developer = {  
     pronouns: "She" | "Her",
-    code: ["Javascript", "C++"],
+    code: ["Javascript", "C#", "C++"],
     technologies: {
         databases: ["MSSQL"] 
        spreadsheets: ["Excel"]
